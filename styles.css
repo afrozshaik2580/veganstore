@@ -1,0 +1,213 @@
+a{
+    color: black;
+    font-size: 14px;
+}
+.navbar{
+    padding: 16px;
+    background-color: white;
+    position: relative;
+
+}
+.brandimage{
+    height: 40px;
+    width: 40px;
+    margin-left: 20px;
+}
+.nav-link{
+    margin-left: 24px;
+    color: black;
+}
+.nav-link:hover{
+    color: black;
+}
+.button{
+    background-color: rgb(170, 210, 54);
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-size: 12px;
+    padding: 9px 34px;
+    border-radius:4px ;
+    border: none;
+    margin:0 20px 0 24px;
+}
+.navbar-toggler-icon{
+    color: black    ;
+}
+.dropdown-menu{
+    border-style: none;
+    border-top: solid 4px rgb(170, 210, 54);
+}
+
+
+        /* first container */
+
+.firstcontainer{
+    height: inherit;
+    background: url(https://edyoda.s3.ap-south-1.amazonaws.com/public/landing-background.png);
+    text-align: center;
+    background-size: cover;
+}
+.mainheading{
+    letter-spacing: 8.8px;
+    font-size: 44px;
+    font-weight: 600;
+    line-height: 1.2;
+    padding: 15% 20% 0;
+}
+.mainparagraph{
+    font-size: 20px;
+    letter-spacing: 0.5px;
+    font-weight: 100;
+    color: #8b8b99;
+    padding: 2% 12% 15%;
+    margin: 0;
+}
+
+/* second container */
+
+
+h3{
+    font-size: 24px;
+
+}
+.row{
+    text-align: center;
+    margin: 0;
+}
+.col-lg-3{
+    padding: 3%;
+    color: white;
+}
+.colpara{
+    font-size: 14px;
+    font-weight: 100;
+    letter-spacing: 0.5px;
+    line-height: 1.6
+}
+.faicon{
+    font-size: 5rem;
+    width: 200px;
+    height: 200px;
+    padding: 0;
+    padding-top: 30px;
+}
+.col-lg-3:hover .faicon{
+    transition: 400ms;
+    font-size: 6rem;
+}
+
+
+/* third container */
+.thirdcontainer{
+    background-color: #f7eee2;
+    text-align: center;
+    padding: 5%;
+}
+.thirdpara{
+    color: #8b8b99;
+}
+h2{
+    color: black;
+}
+.freshfood{
+    color: #91ac41;
+    font-size: 24px;
+}
+.testdiv{
+    padding: 2% 13% ;
+}
+.testfa{
+    padding: 20%;
+    font-size: 4rem;
+    background-color: #e3b375;
+    border-radius: 100%;
+}
+.col-lg-3{
+    text-align: center;
+}
+.afroz{
+    width: 150px;
+    height: 150px;
+    margin: 0;
+    margin:0 25%;
+}
+.col-lg-3:hover .testfa{
+    font-size: 5rem;
+}
+
+
+/* fourthcontainer */
+
+
+.fourthcontainer{
+    text-align: center;
+}
+.testimonialcard{
+    background-color: #f5f6fb;
+    border-top-left-radius: 45px;
+    border-bottom-left-radius: 45px;
+    border-bottom-right-radius: 45px;
+    padding: 5%;
+    margin-bottom: 20px;
+}
+
+.testimonialimage{
+    width: 80px;
+    border-radius: 100%;
+    margin-bottom: 30px;
+}
+
+
+/* fifthcontainer */
+
+
+.leftimage{
+    width: 100%;
+}
+.leftpart{
+    padding: 0;
+}
+.rightpart{
+    background: url(https://edyoda.s3.ap-south-1.amazonaws.com/public/strawberry-white.png);
+    background-size: 100%;
+    text-align: left;
+    padding: 7%;
+}
+.btn{
+    background-color: #f69dad;
+}
+
+
+/* sisthcontainer */
+
+.sixthrow{
+    padding: 7% 10% 4% 10%;
+}
+
+
+
+.seventhcontainer{
+    text-align: center;
+}
+
+
+
+.col-lg-7, .col-lg-5{
+    text-align: left;
+}
+
+.eight{
+    width: 60%;
+    border-radius: 5px;
+    height: 50px;
+    margin: 10px 0;
+}
+
+
+
+.footer{
+    text-align: center;
+    padding: 5%;
+    color: white;
+    background-color: black;
+}
